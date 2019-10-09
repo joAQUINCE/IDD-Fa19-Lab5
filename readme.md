@@ -24,10 +24,12 @@ The STL Files are maintained in this directory: https://github.com/joAQUINCE/IDD
 
 **a. Upload code & a photo of your electronic circuit here.**
 
+
 My Arduino code is maintained in this directory: https://github.com/joAQUINCE/IDD-Fa19-Lab5/tree/master/arduino
 
 Note that for playing sound using PWM Pin, the sounddata.h must be saved in the same directory as .INO file.
 
+![Circuit](circuit.jpg)
 
 ## Putting it All Together
 
