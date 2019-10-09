@@ -44,12 +44,14 @@ The code is also pasted at the end of this report. Note that for playing sound u
 ![Box Picture](https://github.com/joAQUINCE/IDD-Fa19-Lab5/blob/master/a646609f-73e3-4117-9f04-b77881c04011.jpg)
 
 
-1. A video of your Jack in the Box in action.
+## 1. A video of your Jack in the Box in action.
 
 Videos of the Jack is maintained in the following URLs: 
 https://youtu.be/N-BVdGN9zDM
 https://youtu.be/gYxZ4OLi8rU
 
+
+## ARDUINO CODE
 `
 /*******************************************/
 /* Speaker Includes / Defines / Initialize */
