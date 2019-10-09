@@ -10,6 +10,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 ![Box Picture](https://github.com/joAQUINCE/IDD-Fa19-Lab5/blob/master/a646609f-73e3-4117-9f04-b77881c04011.jpg)
 **b. Include `.stl` files.**
+![Laser Cutter File](boxTall.pdf)
 
 
 ## 3D Printing
