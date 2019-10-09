@@ -52,7 +52,7 @@ https://youtu.be/gYxZ4OLi8rU
 
 
 ## ARDUINO CODE
-`
+
 /*******************************************/
 /* Speaker Includes / Defines / Initialize */
 #include <stdint.h>
@@ -290,4 +290,3 @@ void loop()
 
    
 }
-`
