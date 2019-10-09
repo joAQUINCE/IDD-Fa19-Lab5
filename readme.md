@@ -9,18 +9,22 @@ Please put your sketches or designs for the Jack in the Box.
 ## Laser Cutting
 
 ![Box Picture](https://github.com/joAQUINCE/IDD-Fa19-Lab5/blob/master/a646609f-73e3-4117-9f04-b77881c04011.jpg)
-**b. Include `.stl` files.**
-![Laser Cutter File](boxTall.pdf)
 
+**b. Include `.stl` files.**
+![Laser Cutter File](boxTall.png)
 
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
+
 **b. Include `.stl` or `.svg` files if you made modifications.**
+The STL Files are maintained in this directory: https://github.com/joAQUINCE/IDD-Fa19-Lab5
 
 ## Electronics
 
 **a. Upload code & a photo of your electronic circuit here.**
+
+
 
 ## Putting it All Together
 
