@@ -12,7 +12,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 ## 3D Printing
 
-**The STL Files for the smiley face I designed are mantained here: [STL Files](https://github.com/joAQUINCE/IDD-Fa19-Lab5)**
+**The STL Files for the smiley face I designed are mantained here: [STL Files](https://github.com/joAQUINCE/IDD-Fa19-Lab5/blob/master/ec833_smiley.stl)**
 
 ![3D Printed Smiley](smile.jpg)
 
