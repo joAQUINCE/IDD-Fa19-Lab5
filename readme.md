@@ -10,14 +10,11 @@ Please put your sketches or designs for the Jack in the Box.
 ![Silhouette File](silhouette.png)
 ![Box Picture](https://github.com/joAQUINCE/IDD-Fa19-Lab5/blob/master/a646609f-73e3-4117-9f04-b77881c04011.jpg)
 
-**Laser Cutter File** 
-
-
 ## 3D Printing
 
-![3D Printed Smiley](smile.jpg)
-
 **The STL Files for the smiley face I designed are mantained here: [STL Files](https://github.com/joAQUINCE/IDD-Fa19-Lab5)**
+
+![3D Printed Smiley](smile.jpg)
 
 ## Electronics
 
@@ -28,8 +25,6 @@ Please put your sketches or designs for the Jack in the Box.
 My Arduino code is maintained here: [My Arduino Code](https://github.com/joAQUINCE/IDD-Fa19-Lab5/tree/master/arduino)
 
 ## Putting it All Together
-
-
 
 ![Box Picture](https://github.com/joAQUINCE/IDD-Fa19-Lab5/blob/master/a646609f-73e3-4117-9f04-b77881c04011.jpg)
 
