@@ -34,7 +34,7 @@ My Arduino code is maintained here: [My Arduino Code](https://github.com/joAQUIN
 
 ## 1. A video of your Jack in the Box in action.
 
-Videos of the Jack is maintained in the following URLs: 
+Videos of my "Jack in the Box" design  maintained in the following URLs: 
 
 [Jack in the Box - Video 1](https://youtu.be/gYxZ4OLi8rU)
 
