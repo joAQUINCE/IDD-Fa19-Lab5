@@ -22,19 +22,20 @@ The STL Files for the smiley face I designed are mantained here: [STL Files](htt
 
 ## Electronics
 
-**a. Upload code & a photo of your electronic circuit here.**
+![Picture of my (Crowded:) Circuit](circuit.jpg)
+
+## Arduino Code
 
 My Arduino code is maintained here: [My Arduino Code](https://github.com/joAQUINCE/IDD-Fa19-Lab5/tree/master/arduino)
 
-
-Note that for playing sound using PWM Pin, the sounddata.h must be saved in the same directory as .INO file.
-
-![Circuit](circuit.jpg)
-
 ## Putting it All Together
 
-![Speaker](speaker.jpg)
+
+
 ![Box Picture](https://github.com/joAQUINCE/IDD-Fa19-Lab5/blob/master/a646609f-73e3-4117-9f04-b77881c04011.jpg)
+
+![Speaker](speaker.jpg)
+
 
 
 ## 1. A video of your Jack in the Box in action.
