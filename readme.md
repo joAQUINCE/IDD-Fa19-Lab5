@@ -21,7 +21,7 @@ Please put your sketches or designs for the Jack in the Box.
 
 ## Electronics
 
-![Picture of my (Crowded:) Circuit](circuit.jpg)
+![Picture of my (Crowded:) Circuit](elect.jpg)
 
 ## Arduino Code
 
